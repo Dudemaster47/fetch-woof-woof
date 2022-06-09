@@ -5,7 +5,7 @@ Paste your code for fetch requests here once you finish each phase.
 
 /* ============================== Phase 1 ============================== */
 
-// Your code here
+
 
 
 
